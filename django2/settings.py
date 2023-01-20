@@ -92,10 +92,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'MYSQLDATABASE': 'djangodb',
-        'MYSQLUSER': 'joaocampos',
-        'MYSQLPASSWORD': 'admin',
-        'MYSQLHOST': 'localhost',
-        'MYSQLPORT': '3306'
+        'MYSQLUSER': 'root',
+        'MYSQLPASSWORD': 'v2yPxYtYKUBK0uGAolOn',
+        'MYSQLHOST': 'containers-us-west-184.railway.app',
+        'MYSQLPORT': '6123'
     }
 }
 
